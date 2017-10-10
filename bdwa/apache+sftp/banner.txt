@@ -1,0 +1,13 @@
+ ______    _______  ____    __    ____  ___
+|   _  \  |       \ \   \  /  \  /   / /   \
+|  |_)  | |  .--.  | \   \/    \/   / /  ^  \
+|   _  <  |  |  |  |  \            / /  /_\  \
+|  |_)  | |  '--'  |   \    /\    / /  _____  \
+|______/  |_______/     \__/  \__/ /__/     \__\
+
+Username:     deer
+Password:     $USER_PASSWORD
+Web directory: /var/www/html
+
+This is a Docker image based on Ubuntu 16.04 with Apache, SSH & SFTP.
+More info on https://github.com/5ika/docker-images/tree/master/bdwa.
