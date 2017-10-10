@@ -1,0 +1,9 @@
+#!/bin/bash
+
+echo "Install plugins"
+bin/gpm install -y $@
+
+echo "Fix rights"
+chown -R www-data:www-data /var/www/html
+
+echo "Plugins installed"
